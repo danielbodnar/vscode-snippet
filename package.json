@@ -277,7 +277,7 @@
   },
   "dependencies": {
     "@vscode/vsce": "^2.24.0",
-    "axios": "^1.6.8",
+    "axios": "^1.7.4",
     "event-stream": "4.0.1",
     "http-proxy-agent": "^7.0.2"
   },
@@ -297,11 +297,11 @@
     "@vscode/test-electron": "^2.3.9",
     "eslint": "^8.57.0",
     "glob": "^10.3.12",
-    "mocha": "^10.4.0",
+    "mocha": "^10.8.2",
     "rimraf": "^5.0.5",
     "rollup-plugin-node-externals": "^7.1.1",
     "sinon": "^17.0.1",
-    "rollup": "^4.14.0",
+    "rollup": "^4.34.8",
     "typescript": "^5.4.4"
   }
 }
